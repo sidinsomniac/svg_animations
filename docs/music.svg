@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FBB03B;stroke:#A67C52;stroke-width:10;stroke-miterlimit:10;}
+	#XMLID_2_{
+		animation: spin 60s ease-in-out infinite;
+		transform-origin:center;
+	}
+	@keyframes spin{
+		0%{
+			transform:rotate(0deg);
+		}
+		100%{
+			transform:rotate(360deg);
+		}
+	}
+</style>
+<path id="XMLID_2_" class="st0" d="M288.9,214.4l-95.1-77.7c-7-5.7-17.4-0.8-17.4,8.3v213.8c-8.5-3.1-18.7-4.7-30.8-4.7
+	c-32,0-51.9,11.6-51.9,30.3c0,14,5.4,27.1,15.2,36.8c9.7,9.7,22.8,15,36.6,15s26.8-5.3,36.6-15c9.5-9.5,15.3-21.7,15.6-35.5V167.2
+	l95.8,78.4l91.3-136.3v179.4c-7.4-3.1-18.3-4.7-30.4-4.7c-32,0-51.7,11.6-51.7,30.3c0,14,5.5,27.1,15.3,36.8
+	c9.7,9.7,22.8,15,36.6,15s26.8-5.2,36.6-14.8c9.6-9.5,14.8-22.1,15-35.9L406,74.6c0-10.5-13.6-14.7-19.5-5.9L288.9,214.4z"/>
+</svg>

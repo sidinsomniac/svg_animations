@@ -1,0 +1,37 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#666666;}
+	.st1{fill:url(#XMLID_3_);}
+	.st2{fill:#333333;stroke:#333333;stroke-width:4;stroke-miterlimit:10;}
+	#XMLID_4_{
+		animation: spin 80s ease-in-out infinite;
+		transform-origin:center;
+	}
+	@keyframes spin{
+		0%{
+			transform:rotate(0deg);
+		}
+		100%{
+			transform:rotate(360deg);
+		}
+	}
+</style>
+<g id="XMLID_4_">
+	<path id="XMLID_9_" class="st0" d="M357,98.1c0-21-17.1-38.1-38.1-38.1H181.1c-21,0-38.1,17.1-38.1,38.1v303.8
+		c0,21,17.1,38.1,38.1,38.1h137.8c21,0,38.1-17.1,38.1-38.1V98.1z"/>
+	<linearGradient id="XMLID_3_" gradientUnits="userSpaceOnUse" x1="143" y1="250" x2="357" y2="250">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.1446" style="stop-color:#F6FFFF"/>
+		<stop  offset="0.385" style="stop-color:#DCFFFF"/>
+		<stop  offset="0.6898" style="stop-color:#B3FFFF"/>
+		<stop  offset="0.9944" style="stop-color:#83FFFF"/>
+	</linearGradient>
+	<path id="XMLID_8_" class="st1" d="M357,98.1c0-21-17.1-38.1-38.1-38.1H181.1c-21,0-38.1,17.1-38.1,38.1v303.8
+		c0,21,17.1,38.1,38.1,38.1h137.8c21,0,38.1-17.1,38.1-38.1V98.1z"/>
+	<path id="XMLID_10_" class="st2" d="M361,89.1c0-21-17.1-38.1-38.1-38.1H174.1c-21,0-38.1,17.1-38.1,38.1v323.8
+		c0,21,17.1,38.1,38.1,38.1h148.8c21,0,38.1-17.1,38.1-38.1V89.1z M356,401.9c0,21-16.1,39.1-37.1,39.1H181.1
+		c-21,0-39.1-18.1-39.1-39.1V98.1c0-21,18.1-37.1,39.1-37.1H199v8.1c0,3.5,4.1,7.9,7.7,7.9h86.7c3.5,0,5.7-4.4,5.7-7.9V61h19.9
+		c21,0,37.1,16.1,37.1,37.1V401.9z"/>
+</g>
+</svg>

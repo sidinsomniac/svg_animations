@@ -1,0 +1,36 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E6E6E6;stroke:#333333;stroke-width:4;stroke-miterlimit:10;}
+	.st1{fill:#4D4D4D;stroke:#333333;stroke-width:4;stroke-miterlimit:10;}
+	.st2{fill:#D4145A;stroke:#333333;stroke-width:4;stroke-miterlimit:10;}
+	.st3{fill:#29ABE2;stroke:#333333;stroke-width:4;stroke-miterlimit:10;}
+	.st4{fill:#FCEE21;stroke:#333333;stroke-width:4;stroke-miterlimit:10;}
+	.st5{fill:#22B573;stroke:#333333;stroke-width:4;stroke-miterlimit:10;}
+	#XMLID_2_{
+		animation: spin 60s reverse ease-in-out infinite;
+		transform-origin:center;
+	}
+	@keyframes spin{
+		0%{
+			transform:rotate(0deg);
+		}
+		100%{
+			transform:rotate(360deg);
+		}
+	}
+</style>
+<g id="XMLID_2_">
+	<path id="XMLID_5_" class="st0" d="M408.3,253.9l-59.7-85.5c-7.6-10.8-17.4-15.3-27.4-15.1c-0.2,0-140.8,0-140.9,0
+		c-10-0.3-20,4.6-27.6,15.4L92.2,254c-14.8,21-15.7,55.3-0.4,76.3v0c14.1,21,39.4,22,54.1,1l1.1-1.5c11.8-15.8,30.4-25.2,50.1-25.2
+		h106.3c20.4,0,39.5,9.9,51.2,26.6l0,0c14.8,21,38.8,20.2,53-0.8v-0.1C422.9,309.4,423.1,274.9,408.3,253.9z"/>
+	<circle id="XMLID_1_" class="st1" cx="180.2" cy="224.6" r="41.6"/>
+	<circle id="XMLID_3_" class="st1" cx="321.6" cy="224.6" r="41.6"/>
+	<circle id="XMLID_4_" class="st2" cx="321.6" cy="199.9" r="10.4"/>
+	<circle id="XMLID_7_" class="st3" cx="321.6" cy="249.4" r="10.4"/>
+	<circle id="XMLID_9_" class="st4" cx="296.8" cy="224.6" r="10.4"/>
+	<circle id="XMLID_8_" class="st5" cx="346.3" cy="224.6" r="10.4"/>
+	<polygon id="XMLID_6_" class="st4" points="216,218 188,218 188,190 173,190 173,218 146,218 146,232 173,232 173,260 188,260 
+		188,232 216,232 	"/>
+</g>
+</svg>
